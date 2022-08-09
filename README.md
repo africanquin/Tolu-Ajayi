@@ -7,11 +7,11 @@ a Software Engineer. I'm confident AltSchoolol will equip me with the necessary 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript, HTML e.t.c. I have a lot of resources at my disposal. looking forward to become a Cloud Engineer.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://github.com/africanquin/Tolu-Ajayi) and contact me by emailing esshyy@yahoo.com.
 
 ---
